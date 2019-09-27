@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfc634cc-ae8c-4555-b8ab-0bc2aad31ef8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/HomePage/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/HomePage/TestHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/HomePage/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/HomePage/TestHomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/commonApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/commonApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/commonApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/common/commonApi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/src/test/java/HomePage/TestHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/HomePage/TestHome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/HomePage/TestHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/HomePage/TestHome.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

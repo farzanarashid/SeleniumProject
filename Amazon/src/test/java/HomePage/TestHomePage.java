@@ -15,12 +15,12 @@ public class TestHomePage extends commonApi {
 
     public void test2() throws InterruptedException {
 
-        TypeOnElements("#email","lizaliza1177@gmail.com");
-        TypeOnElements("#pass","aroni156");
-        ClickOnElements("#u_0_2");
+        TypeOnElements("#email","ab7@gmail.com");
+        TypeOnElements("#pass","123456");
+       // ClickOnElements("#u_0_2");
         //driver.findElement(By.id("email")).sendKeys("lizaliza1177@gmail.com");
         //driver.findElement(By.id("pass")).sendKeys("aroni156");
         //driver.findElement(By.id("u_0_2")).click();
-        Thread.sleep(1000);
+        //Thread.sleep(1000);
     }
 }
