@@ -18,9 +18,7 @@ public class TestHomePage extends commonApi {
         TypeOnElements("#email","ab7@gmail.com");
         TypeOnElements("#pass","123456");
        // ClickOnElements("#u_0_2");
-        //driver.findElement(By.id("email")).sendKeys("lizaliza1177@gmail.com");
-        //driver.findElement(By.id("pass")).sendKeys("aroni156");
-        //driver.findElement(By.id("u_0_2")).click();
+
         //Thread.sleep(1000);
     }
 }
