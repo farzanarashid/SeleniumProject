@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfc634cc-ae8c-4555-b8ab-0bc2aad31ef8" name="Default Changelist" comment="" />
+    <list default="true" id="bfc634cc-ae8c-4555-b8ab-0bc2aad31ef8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/HomePage/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/HomePage/TestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/HomePage/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/HomePage/TestHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/commonApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/commonApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/commonApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/common/commonApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/test/java/HomePage/TestHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/HomePage/TestHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/HomePage/TestHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/HomePage/TestHome.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +23,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RNc9OvGZbl6VH0HXwZSYPafu6r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -34,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/farhana rashid/IdeaProjects/EcommerceSite/Amazon/src/main/resources/fbTestrunner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/farhana rashid/IdeaProjects/EcommerceSite/ebay/src/main/resources/ebayTestrunner.xml">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -151,10 +164,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/farhana rashid/IdeaProjects/EcommerceSite/Amazon/src/main/resources/fbTestrunner.xml" />
         <item itemvalue="TestNG.C:/Users/farhana rashid/IdeaProjects/EcommerceSite/ebay/src/main/resources/ebayTestrunner.xml" />
-        <item itemvalue="TestNG.TestHome" />
+        <item itemvalue="TestNG.C:/Users/farhana rashid/IdeaProjects/EcommerceSite/Amazon/src/main/resources/fbTestrunner.xml" />
         <item itemvalue="TestNG.TestHomePage" />
+        <item itemvalue="TestNG.TestHome" />
         <item itemvalue="TestNG.TestHome.test1" />
       </list>
     </recent_temporary>
@@ -172,21 +185,16 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Generic/src/main/java/common/commonApi.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Generic/src/main/java/common/commonApi.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/EcommerceSite$C__Users_farhana_rashid_IdeaProjects_EcommerceSite_Amazon_src_main_resources_fbTestrunner_xml.ic" NAME="$PROJECT_DIR$/Amazon/src/main/resources/fbTestrunner.xml Coverage Results" MODIFIED="1569523257612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

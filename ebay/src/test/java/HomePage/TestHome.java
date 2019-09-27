@@ -8,7 +8,10 @@ import org.testng.annotations.Test;
 public class TestHome extends commonApi {
    @Test
     public void test1(){
-       driver.findElement(By.id("gh-ac")).sendKeys("adidas", Keys.ENTER);
+
+      TypeOnElements("#gh-ac","adidas");
+      ClickOnElements("gh-btn");
+      //driver.findElement(By.id("gh-ac")).sendKeys("adidas", Keys.ENTER);
 
     }
 }
